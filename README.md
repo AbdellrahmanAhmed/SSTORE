@@ -63,6 +63,8 @@ The goal of this project is to practice building a complete app that supports mu
 ---
 
 ## 📂 Project Structure
+<details>
+
 ```
 ├───bindings
 ├───common
@@ -145,6 +147,7 @@ The goal of this project is to practice building a complete app that supports mu
     │   └───custom_themes
     └───validators
 ```
+</details>
 
 
 ---
