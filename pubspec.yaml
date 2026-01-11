@@ -1,0 +1,89 @@
+name: s_store
+description: "SStore — A modern Flutter E-commerce app with Admin Panel, built by AbdeLSa3!Dy using Firebase."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Utility Packages
+  http: ^1.1.0
+  intl: ^0.19.0
+  logger: ^2.0.1
+  url_launcher: ^6.3.0
+  flutter_native_splash: ^2.4.4
+  smooth_page_indicator: ^1.2.1
+  connectivity_plus: ^6.0.3
+  lottie: ^3.2.0
+  shimmer: ^3.0.0
+  # Icons
+  iconsax_flutter: ^1.0.1
+  cupertino_icons: ^1.0.8
+  # State Management
+  get: ^4.7.2
+  get_storage: ^2.1.1
+  # Product Specific
+  readmore: ^2.2.0
+  carousel_slider: ^5.1.1
+  flutter_rating_bar: ^4.0.1
+  # Firebase
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
+  firebase_auth: ^6.1.2
+  # Google
+  google_sign_in: ^6.2.2
+  #supabase:
+  supabase_flutter: ^1.10.25
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/gif/
+    - assets/logo/
+    - assets/lottie/
+    - assets/images/banners/
+    - assets/images/products/
+    - assets/images/user/
+    - assets/icons/social/
+    - assets/icons/categories/
+
+
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

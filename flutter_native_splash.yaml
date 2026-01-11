@@ -1,0 +1,22 @@
+flutter_native_splash:
+  color: "#FF6B00"
+  color_dark: "#272727"
+  image: assets/logo/s-store-logo-light_splash.png
+  image_dark: assets/logo/s-store-logo-light_splash.png
+  branding_mode: bottom
+  branding: assets/logo/s-store-logo-light_branding.png
+  branding_dark: assets/logo/s-store-logo-dark_branding.png
+
+  android_12:
+    color: "#FF6B00"
+    color_dark: "#272727"
+    image: assets/logo/s-store-logo-light_splash.png
+    image_dark: assets/logo/s-store-logo-light_splash.png
+    branding_mode: bottom
+    branding: assets/logo/s-store-logo-light_branding.png
+    branding_dark: assets/logo/s-store-logo-dark_branding.png
+
+  web: false
+
+# flutter pub run flutter_native_splash:create --path=flutter_native_splash.yaml
+# flutter pub run flutter_native_splash:remove
