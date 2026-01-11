@@ -1,3 +1,6 @@
+
+![SSTORE Screenshot](https://github.com/AbdellrahmanAhmed/SSTORE/blob/main/screens0096.png?raw=true)
+
 # 🛍️ SSTORE Flutter eCommerce App
 
 A **training project** built with **Flutter**, integrated with **Firebase** and **Supabase**, to simulate a modern eCommerce application.  
@@ -60,7 +63,88 @@ The goal of this project is to practice building a complete app that supports mu
 ---
 
 ## 📂 Project Structure
-├───bindings ├───common │   └───widgets │       ├───appbar │       ├───brands │       ├───chips │       ├───containers │       ├───curved_edges │       ├───icons │       ├───image │       ├───image_text_widgets │       ├───layouts │       ├───list_tiles │       ├───loaders │       ├───products │       │   ├───cart │       │   └───product_cards │       └───texts ├───data │   ├───repositories │   │   ├───authentication │   │   ├───data │   │   │   ├───banners │   │   │   ├───category │   │   │   └───products │   │   └───user │   └───services ├───features │   ├───authentication │   │   ├───controllers │   │   │   ├───forget_password │   │   │   ├───login │   │   │   ├───onboarding │   │   │   └───signup │   │   ├───models │   │   └───screens │   │       ├───login │   │       │   └───widgets │   │       ├───onboarding │   │       │   └───widgets │   │       ├───password_configuration │   │       └───signup │   │           └───widgets │   ├───personalization │   │   ├───controllers │   │   ├───models │   │   └───screens │   │       ├───address │   │       ├───profile │   │       │   └───widget │   │       └───settings │   └───shop │       ├───controllers │       ├───models │       └───screens │           ├───home │           │   └───widgets │           ├───product_details │           │   └───widgets │           ├───product_reviews │           │   └───widgets │           ├───store │           │   └───widgets │           └───wishlist ├───localization ├───services └───utils ├───constants ├───device ├───exceptions ├───formatters ├───helpers ├───http ├───local_stroge ├───popups ├───shimmer ├───theme │   └───custom_themes └───validators
+```
+├───bindings
+├───common
+│   └───widgets
+│       ├───appbar
+│       ├───brands
+│       ├───chips
+│       ├───containers
+│       ├───curved_edges
+│       ├───icons
+│       ├───image
+│       ├───image_text_widgets
+│       ├───layouts
+│       ├───list_tiles
+│       ├───loaders
+│       ├───products
+│       │   ├───cart
+│       │   └───product_cards
+│       └───texts
+├───data
+│   ├───repositories
+│   │   ├───authentication
+│   │   ├───data
+│   │   │   ├───banners
+│   │   │   ├───category
+│   │   │   └───products
+│   │   └───user
+│   └───services
+├───features
+│   ├───authentication
+│   │   ├───controllers
+│   │   │   ├───forget_password
+│   │   │   ├───login
+│   │   │   ├───onboarding
+│   │   │   └───signup
+│   │   ├───models
+│   │   └───screens
+│   │       ├───login
+│   │       │   └───widgets
+│   │       ├───onboarding
+│   │       │   └───widgets
+│   │       ├───password_configuration
+│   │       └───signup
+│   │           └───widgets
+│   ├───personalization
+│   │   ├───controllers
+│   │   ├───models
+│   │   └───screens
+│   │       ├───address
+│   │       ├───profile
+│   │       │   └───widget
+│   │       └───settings
+│   └───shop
+│       ├───controllers
+│       ├───models
+│       └───screens
+│           ├───home
+│           │   └───widgets
+│           ├───product_details
+│           │   └───widgets
+│           ├───product_reviews
+│           │   └───widgets
+│           ├───store
+│           │   └───widgets
+│           └───wishlist
+├───services
+└───utils
+    ├───constants
+    ├───device
+    ├───dev_tools
+    ├───exceptions
+    ├───formatters
+    ├───helpers
+    ├───http
+    ├───local_stroge
+    ├───logging
+    ├───popups
+    ├───shimmer
+    ├───theme
+    │   └───custom_themes
+    └───validators
+```
 
 
 ---
