@@ -7,6 +7,11 @@ A **training project** built with **Flutter**, integrated with **Firebase** and 
 The goal of this project is to practice building a complete app that supports multiple languages, dark/light themes, user authentication, and product management.
 
 ---
+## 🎥 Promo Video
+Watch the SSTORE product promo here:  
+👉 [Click to watch the demo video](https://www.linkedin.com/posts/engabdaim_flutter-firebase-supabase-activity-7416158185847349248-l3V6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADTP2IkB7NWGmCYuxuzt6Q5-RlFauGX5NeM)
+
+---
 
 ## ✨ Features
 - 🌗 **Dark & Light Mode** support.  
